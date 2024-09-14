@@ -209,7 +209,7 @@ public class MainActivity extends AppCompatActivity {
         outputString.setText(inputVal.toString());
     }
     public void add9(View v) {
-        inputVal.append("6");
+        inputVal.append("9");
         outputString.setText(inputVal.toString());
     }
     public void add6(View v) {
