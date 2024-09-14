@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Calculator</string>
+    <string name="allClearKey">AC</string>
+    <string name="num0key">0</string>
+    <string name="num1key">1</string>
+    <string name="num2key">2</string>
+    <string name="num3key">3</string>
+    <string name="num4key">4</string>
+    <string name="num5key">5</string>
+    <string name="num6key">6</string>
+    <string name="num7key">7</string>
+    <string name="num8key">8</string>
+    <string name="num9key">9</string>
+    <string name="num00key">00</string>
+
+</resources>
